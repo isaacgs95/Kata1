@@ -1,7 +1,7 @@
 '''
 bloque de comentarios. Adelanto del PreHACKATHON
 Fecha: 16/05/2020. Cambio con nueva linea
-
+Subido a la nuve
 '''
 
 nombre = 'Isaac Garcia Sanchez' # esto es un comentario
