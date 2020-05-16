@@ -1,5 +1,6 @@
 '''
 bloque de comentarios. Adelanto del PreHACKATHON
+Fecha: 16/05/2020. Cambio con nueva linea
 
 '''
 
