@@ -7,3 +7,7 @@
     ****
     *****
 '''
+lon = int(input("Elige el tamaño del arbol: "))
+
+for i in range(lon): # 1, lon + 1 empieza en 1, el numero del usuario
+    print('*' * (i + 1))
