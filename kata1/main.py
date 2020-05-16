@@ -1,0 +1,19 @@
+'''
+bloque de comentarios. Adelanto del PreHACKATHON
+
+'''
+
+nombre = 'Isaac Garcia Sanchez' # esto es un comentario
+edad = 16
+esta_trabajando = True # False
+
+dato = input('Introduce un Dato: ')
+
+print(dato)
+
+nombre2 = input('Tu nombre: ')
+
+if(edad >= 18):
+    print(nombre2 + ' ' + 'Eres mayor de edad')
+else:
+    print(nombre2 + ' ' + 'Eres un crio')
